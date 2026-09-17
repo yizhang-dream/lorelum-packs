@@ -1,0 +1,9 @@
+schema_version: 1
+name: flower-moon-packs
+packs:
+  - name: windows-agent-ops
+    description: Hard-won execution practices for AI coding agents driving Windows + Git Bash toolchains - environment visibility, command mangling, process control, scheduler semantics, and research methodology.
+    releases:
+      - version: 0.1.0
+        ref: main
+        path: packs/windows-agent-ops

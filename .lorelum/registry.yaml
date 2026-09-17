@@ -10,19 +10,19 @@ packs:
   - name: research-ops
     description: Practices for experiment-driven research engineering - pre-registration, attribution discipline, artifact freezing, statistical test design, simulation and benchmark verification.
     releases:
-      - version: 0.1.0
+      - version: 0.1.1
         ref: main
         path: packs/research-ops
   - name: app-delivery-ops
     description: Practices for shipping interactive applications - deterministic capture, offline-first sync, failure-oriented release gates, permission modeling, prompt engineering as code.
     releases:
-      - version: 0.1.0
+      - version: 0.1.1
         ref: main
         path: packs/app-delivery-ops
   - name: toolchain-deploy-ops
     description: Practices for deployment, pipelines, and cross-platform toolchains - deploy verification, cache busting, parser fallbacks, rendering acceptance, WSL boundaries, headless engines.
     releases:
-      - version: 0.1.0
+      - version: 0.1.1
         ref: main
         path: packs/toolchain-deploy-ops
   - name: narrative-writing
